@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=130&section=header&fontColor=fff&animation=twinkling&text=welcome!&fontAlignY=20&fontSize=20)
-![header](https://capsule-render.vercel.app/api?type=transparent&text=HyeJin's%20GitHub%20Profile.&fontSize=60&fontColor=333333&height=400)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=HyeJin's%20GitHub%20Profile.&fontSize=50&fontColor=333333&height=300)
 
 
 
